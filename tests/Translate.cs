@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using StringExtensions;
 
-namespace tests
+namespace tests;
 
 
 [TestFixture]
